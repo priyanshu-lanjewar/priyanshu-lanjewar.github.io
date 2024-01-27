@@ -1,4 +1,4 @@
 var btn = document.getElementById('btn');
 btn.onclick = function() {
-location.assign('https://priyanshulanjewar.me');
+location.assign('https://priyanshu.lanjewar.in');
 }
